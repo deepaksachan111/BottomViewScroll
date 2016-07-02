@@ -7,13 +7,16 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.view.ViewGroup;
 import android.widget.ImageButton;
+import android.widget.TextView;
 import android.widget.Toast;
 
 public class BottomMenuFragment extends Fragment implements OnClickListener {
 
 	@Override
 	public View onCreateView(LayoutInflater inflater, ViewGroup container,Bundle savedInstanceState) {
-		View view = inflater.inflate(R.layout.bottom_menu, container,false);
+		View view = inflater.inflate(R.layout.bottom_menu, container, false);
+
+
 
 		return view;
 	}

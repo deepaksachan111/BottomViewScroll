@@ -36,6 +36,7 @@ public final class R {
         public static final int imageButton3=0x7f090005;
         public static final int imageButton4=0x7f090006;
         public static final int listview=0x7f090000;
+        public static final int textview=0x7f090007;
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;

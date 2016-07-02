@@ -41,4 +41,9 @@
         android:layout_margin="5dp"
         android:src="@drawable/button4" />
 
+    <TextView
+        android:id="@+id/textview"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+
 </LinearLayout>
